@@ -22,5 +22,9 @@
   "hehe": {
     "value": "hehee",
     "expire": null
+  },
+  "5 điều bác hồ dạy": {
+    "value": "# 5 ĐIỀU BÁC HỒ DẠY\n**1. Yêu tổ quốc, yêu đồng bào**\n**2. Học tập tốt, lao động tốt**\n**3. Đoàn kết tốt, kỷ luật tốt**\n**4. Giữ gìn vệ sinh thật tốt**\n**5. Khiêm tốn, thật thà, dũng cảm**",
+    "expire": null
   }
 }
