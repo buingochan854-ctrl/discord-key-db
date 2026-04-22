@@ -42,9 +42,5 @@
   "dead rails": {
     "value": "# Dead Rails Script List:\n- Ringta Hub\n- Auto Ticket",
     "expire": null
-  },
-  "auto ticket": {
-    "value": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/M4VOWJ8IAKSR5WFRCCJ7AW5IW/ScrFr/refs/heads/main/BoundDT.lua\"))()",
-    "expire": null
   }
 }
