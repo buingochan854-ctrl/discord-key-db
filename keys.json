@@ -46,9 +46,5 @@
   "auto ticket": {
     "value": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/M4VOWJ8IAKSR5WFRCCJ7AW5IW/ScrFr/refs/heads/main/BoundDT.lua\"))()",
     "expire": null
-  },
-  "bloxtrap": {
-    "value": "MOBILE COPY : \n``loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'), 'lol')()``\nPC COPY :\n```loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'), 'lol')()``",
-    "expire": null
   }
 }
