@@ -50,5 +50,8 @@
   "bloxtrap": {
     "value": "MOBILE COPY : \n``loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'), 'lol')()``\nPC COPY :\n```loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'), 'lol')()```",
     "expire": null
+  },
+  "mực": {
+    "value": "nướng"
   }
 }
